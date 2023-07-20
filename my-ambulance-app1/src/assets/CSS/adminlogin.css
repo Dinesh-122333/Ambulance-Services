@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    padding: 20px;
+    box-shadow: 0 5px 3px 0 rgba(0,0,0,0.2);
+    
+}
+.Login-title{
+    background: linear-gradient(to right, #6cb7e2, #9759d6, #7e20db); 
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-size: 40px;
+    position: absolute;    
+    
+}
+.AdminLogin-Nav-About{
+    padding-left: 920px;
+    font-size: larger;    
+    position: absolute;
+    padding-top: 20px;
+    font-size: 29px;
+}
+.AdminLogin-Nav-Contact{
+    padding-left: 1100px;
+    font-size: 29px;    
+    position:absolute;
+    padding-top: 20px;
+    
+}
+
+.Login-Main-title{
+    font-size: 38px;
+    font-weight: 600;
+    padding-left: 97px;
+    margin-top: 60px;
+    padding-right: 100px;
+    position: absolute;
+}
+.Login-Side-Title{
+    font-size: 32px;
+    font-weight: 600;
+    padding-left: 730px;
+    margin-top: 80px;
+    
+    
+}
+
+.Login-Leftside{
+    position: absolute;
+}
+
+.Login-img1{
+    width: 500px;
+    height: 412px;
+    margin-top: 200px;
+    margin-left: 120px;
+}
+
+.Login-Search{
+    margin-top: 50px;
+    margin-left: 670px;
+    padding: 10px 200px 10px 20px;
+    border-radius: 5px;
+    border-color: tomato;
+    font-size: 20px;
+}
+
+.Login-Search::placeholder{
+    color:tomato
+}
+
+.Login-Description{
+    padding-left: 700px;
+    font-size: 19px;
+    padding-right: 200px;
+}
+
+.Login-Red{
+    width: 166px;
+    height: 166px;
+    margin-left: 1100px;
+}
+.Login-Blue{
+    width: 166px;
+    height: 166px;
+    margin-left: 920px;
+}
+
+.Login-btn1{
+    margin-top: 50px;
+    color:tomato;
+    border-color: tomato;
+    background-color: aliceblue;
+    padding: 5px 80px;
+    margin-left: 750px;
+    font-size: 32px;
+    border-radius: 5px;
+}
+
+.Login-btn1:hover{
+    color:aliceblue;
+    background-color: tomato;
+}
+.mainfooter{
+    margin-top: 90px;
+    background-color: #fd4646;
+    color: aliceblue;
+}
+.footer-middle{
+    padding-top: 50px;
+}
+a{
+    color: aliceblue;
+}
+.footer-pad1{
+    padding-left: 80px;
+}
+.footer-pad2{
+    padding-left: 80px;
+}
+.text-center{
+    padding-top: 50px;
+    padding-bottom: 30px;
+}

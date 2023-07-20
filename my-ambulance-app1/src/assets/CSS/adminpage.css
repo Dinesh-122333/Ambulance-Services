@@ -1,0 +1,174 @@
+.Adminpage-nav{
+    padding: 20px;
+    box-shadow: 0 5px 3px 0 rgba(0,0,0,0.2);
+}
+
+.Admin-nav-title{
+    background: linear-gradient(to right, #6cb7e2, #9759d6, #7e20db); 
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-size: 40px;
+    position: absolute;
+}
+.Admin-nav-btn{
+    border-color: tomato;
+    color: tomato;
+    background-color: aliceblue;
+    border-radius: 5px;
+    margin-left: 1150px;
+    padding: 5px 10px;
+   
+}
+
+.Admin-container{
+    width: 271px;
+    height: 220px;
+    border-radius: 10px;
+    border-color: black;
+    border:0.5px solid black;
+    margin-left: 50px;
+    margin-top: 50px;
+    padding: 20px;
+    position: absolute;
+}
+.tot-book-img{
+    position: absolute;
+
+}
+.Admin-header1{
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+p{
+    color: darkgray;
+    padding-top: 10px;
+    font-style: italic;
+    padding-left: 10px;
+}
+.Pad-1{
+    position: absolute;
+}
+.Pad-2{
+    padding-left: 110px;
+}
+.Admin-description-1{
+    padding-left: 350px;
+    padding-top: 90px;
+    padding-right: 700px;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 28px;
+}
+.container-1{
+    position: absolute;
+
+}
+.container-2{
+    margin-left: 600px;
+}
+.Admin-header2{
+    font-size: 22px;
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.Admin-description-2{
+    padding-left: 350px;
+    padding-top: 90px;
+    padding-right: 100px;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 28px;
+}
+.Admin-description-3{
+    padding-left: 100px;
+    padding-top: 100px;
+    padding-right: 300px;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 28px;
+    position: absolute;
+
+}
+.Admin-container-d{
+    width: 271px;
+    height: 220px;
+    border-radius: 10px;
+    border-color: black;
+    border:0.5px solid black;
+    margin-left: 400px;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.container-3{
+    padding-top: 30px;
+    position: absolute;
+}
+
+.container-4{
+    margin-left: 600px;
+    padding-top: 30px;
+
+
+}
+.Admin-description-4{
+    padding-left: 150px;
+    padding-top: 100px;
+    padding-right: 300px;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 28px;
+    position: absolute;
+
+}
+.d-container{
+    border:0.5px solid black;
+    width: 330px;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    position: absolute;
+
+}
+.Admin-img{
+    position: absolute;
+    padding: 10px;
+
+
+}
+.Admin-Chat{
+    font-size: 28px;
+   padding: 10px 10px 10px 80px;
+}
+.Admin-content{
+    border: 0.5px solid black;;
+}
+.Admin-quries{
+    margin-top: 50px;
+    margin-left: 420px;
+    background: linear-gradient(225deg, rgba(234, 116, 92, 0.87) 0%, rgba(115, 180, 175, 0.94) 100%);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+.query-tit{
+    padding-top: 20px;
+    padding-left: 120px ;
+    font-size: 28px;
+}
+.query-quetion{
+    font-size: 24px;
+    font-style: italic;
+    padding: 20px 20px 20px ;
+    font-weight: 300;
+}
+
+.See{
+    color: blue;
+    text-decoration: none;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
