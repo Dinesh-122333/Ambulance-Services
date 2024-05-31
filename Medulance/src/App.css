@@ -1,0 +1,65 @@
+.title-color{
+  background: linear-gradient(to right, #6cb7e2, #9759d6, #7e20db); 
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  font-size: 40px;
+}
+
+.book{
+  border-color:#FF0000;
+  color: #FF0000;
+  background-color: white;
+}
+
+.book:hover{
+  color:white;
+  background-color: #FF0000;
+}
+
+.login{
+  color:white;
+  background-color: #FF0000;
+}
+
+.login:hover{
+  background-color: White;
+  border-color:#FF0000;
+  color:#FF0000;
+}
+
+.booknow{
+  background-color: #FF0000;
+}
+
+.booknow-text{
+  font-size: 28px;
+  color:white;
+  text-decoration: none;
+}
+
+.call{
+  border-color: #FF0000;
+  background-color: white;
+}
+
+.call-text{
+  color:#FF0000;
+  font-size: 28px;
+  text-decoration: none;
+}
+
+.pad{
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+.login-button{
+  background-color: #ff6464;
+  color:white;
+  font-size: 20px;
+}
+
+.main_text_color{
+  color:#ff6464;
+}
